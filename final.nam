@@ -1,0 +1,124 @@
+V -t * -v 1.0a5 -a 0
+W -t * -x 655.220947 -y 615.949524
+A -t * -n 1 -p 0 -o 0x7fffffff -c 30 -a 1
+A -t * -h 1 -m 1073741823 -s 0
+c -t * -i 5 -n #00cc66
+c -t * -i 1 -n #0000cc
+c -t * -i 7 -n #ff9966
+c -t * -i 3 -n #990099
+n -t * -a 17 -s 17 -S UP -v circle -c black -i black -x 548.525574 -y 562.703979 -Z 0.0
+n -t * -a 0 -s 0 -S UP -v circle -c blue -i blue -x 428.978088 -y 611.461426 -Z 0.0
+n -t * -a 18 -s 18 -S UP -v circle -c green -i green -x 432.854218 -y 538.631287 -Z 0.0
+n -t * -a 1 -s 1 -S UP -v circle -c black -i black -x 454.070831 -y 609.829346 -Z 0.0
+n -t * -a 20 -s 20 -S UP -v circle -c black -i black -x 486.915802 -y 537.815308 -Z 0.0
+n -t * -a 19 -s 19 -S UP -v circle -c black -i black -x 462.639099 -y 538.427307 -Z 0.0
+n -t * -a 2 -s 2 -S UP -v circle -c black -i black -x 473.247375 -y 609.625366 -Z 0.0
+n -t * -a 21 -s 21 -S UP -v circle -c black -i black -x 531.389099 -y 537.407288 -Z 0.0
+n -t * -a 3 -s 3 -S UP -v circle -c black -i black -x 497.932098 -y 607.993286 -Z 0.0
+n -t * -a 22 -s 22 -S UP -v circle -c black -i black -x 556.889832 -y 537.815308 -Z 0.0
+n -t * -a 4 -s 4 -S UP -v circle -c black -i black -x 517.312683 -y 607.789307 -Z 0.0
+n -t * -a 23 -s 23 -S UP -v circle -c black -i black -x 584.022583 -y 538.223267 -Z 0.0
+n -t * -a 5 -s 5 -S UP -v circle -c black -i black -x 534.653198 -y 607.585327 -Z 0.0
+n -t * -a 24 -s 24 -S UP -v circle -c purple -i purple -x 437.750336 -y 514.150574 -Z 0.0
+n -t * -a 6 -s 6 -S UP -v circle -c black -i black -x 559.541870 -y 607.789307 -Z 0.0
+n -t * -a 25 -s 25 -S UP -v circle -c black -i black -x 462.231079 -y 512.722534 -Z 0.0
+n -t * -a 7 -s 7 -S UP -v circle -c black -i black -x 582.186523 -y 607.585327 -Z 0.0
+n -t * -a 26 -s 26 -S UP -v circle -c black -i black -x 496.096039 -y 512.314514 -Z 0.0
+n -t * -a 8 -s 8 -S UP -v circle -c black -i black -x 605.851257 -y 615.949524 -Z 0.0
+n -t * -a 27 -s 27 -S UP -v circle -c black -i black -x 531.389099 -y 511.294434 -Z 0.0
+n -t * -a 9 -s 9 -S UP -v circle -c black -i black -x 605.851257 -y 597.180969 -Z 0.0
+n -t * -a 10 -s 10 -S UP -v circle -c maroon -i maroon -x 655.220947 -y 559.644104 -Z 0.0
+n -t * -a 11 -s 11 -S UP -v circle -c red -i red -x 429.386108 -y 578.208435 -Z 0.0
+n -t * -a 12 -s 12 -S UP -v circle -c black -i black -x 452.234772 -y 578.004456 -Z 0.0
+n -t * -a 13 -s 13 -S UP -v circle -c black -i black -x 476.715485 -y 577.188416 -Z 0.0
+n -t * -a 14 -s 14 -S UP -v circle -c black -i black -x 506.092346 -y 576.576355 -Z 0.0
+n -t * -a 15 -s 15 -S UP -v circle -c black -i black -x 531.797119 -y 576.168335 -Z 0.0
+n -t * -a 16 -s 16 -S UP -v circle -c black -i black -x 551.177673 -y 581.676575 -Z 0.0
+l -t * -s 0 -d 1 -S UP -r 1000000 -D 0.02 -c black -o 356.3deg
+l -t * -s 1 -d 2 -S UP -r 1000000 -D 0.02 -c black -o 359.4deg
+l -t * -s 2 -d 3 -S UP -r 1000000 -D 0.02 -c black -o 356.2deg
+l -t * -s 3 -d 4 -S UP -r 1000000 -D 0.02 -c black -o 359.4deg
+l -t * -s 4 -d 5 -S UP -r 1000000 -D 0.02 -c black -o 359.3deg
+l -t * -s 5 -d 6 -S UP -r 1000000 -D 0.02 -c black -o 0.5deg
+l -t * -s 6 -d 7 -S UP -r 1000000 -D 0.02 -c black -o 359.5deg
+l -t * -s 7 -d 8 -S UP -r 1000000 -D 0.02 -c black -o 19.5deg
+l -t * -s 7 -d 9 -S UP -r 1000000 -D 0.02 -c black -o 336.3deg
+l -t * -s 8 -d 10 -S UP -r 1000000 -D 0.02 -c black -o 311.2deg
+l -t * -s 9 -d 10 -S UP -r 1000000 -D 0.02 -c black -o 322.8deg
+l -t * -s 10 -d 16 -S UP -r 1000000 -D 0.02 -c black -o 168.0deg
+l -t * -s 10 -d 17 -S UP -r 1000000 -D 0.02 -c black -o 178.4deg
+l -t * -s 10 -d 23 -S UP -r 1000000 -D 0.02 -c black -o 196.7deg
+l -t * -s 10 -d 27 -S UP -r 1000000 -D 0.02 -c black -o 201.3deg
+l -t * -s 11 -d 12 -S UP -r 1000000 -D 0.02 -c black -o 359.5deg
+l -t * -s 12 -d 13 -S UP -r 1000000 -D 0.02 -c black -o 358.1deg
+l -t * -s 13 -d 14 -S UP -r 1000000 -D 0.02 -c black -o 358.8deg
+l -t * -s 14 -d 15 -S UP -r 1000000 -D 0.02 -c black -o 359.1deg
+l -t * -s 15 -d 16 -S UP -r 1000000 -D 0.02 -c black -o 15.9deg
+l -t * -s 15 -d 17 -S UP -r 1000000 -D 0.02 -c black -o 321.2deg
+l -t * -s 18 -d 19 -S UP -r 1000000 -D 0.02 -c black -o 359.6deg
+l -t * -s 19 -d 20 -S UP -r 1000000 -D 0.02 -c black -o 358.6deg
+l -t * -s 20 -d 21 -S UP -r 1000000 -D 0.02 -c black -o 359.5deg
+l -t * -s 21 -d 22 -S UP -r 1000000 -D 0.02 -c black -o 0.9deg
+l -t * -s 22 -d 23 -S UP -r 1000000 -D 0.02 -c black -o 0.9deg
+l -t * -s 24 -d 25 -S UP -r 1000000 -D 0.02 -c black -o 356.7deg
+l -t * -s 25 -d 26 -S UP -r 1000000 -D 0.02 -c black -o 359.3deg
+l -t * -s 26 -d 27 -S UP -r 1000000 -D 0.02 -c black -o 358.3deg
+q -t * -s 5 -d 4 -a 0.5
+q -t * -s 5 -d 6 -a 0.5
+q -t * -s 15 -d 14 -a 0.5
+q -t * -s 15 -d 16 -a 0.5
+q -t * -s 21 -d 20 -a 0.5
+q -t * -s 15 -d 17 -a 0.5
+q -t * -s 26 -d 25 -a 0.5
+q -t * -s 21 -d 22 -a 0.5
+q -t * -s 9 -d 7 -a 0.5
+q -t * -s 10 -d 16 -a 0.5
+q -t * -s 26 -d 27 -a 0.5
+q -t * -s 10 -d 17 -a 0.5
+q -t * -s 2 -d 1 -a 0.5
+q -t * -s 2 -d 3 -a 0.5
+q -t * -s 10 -d 23 -a 0.5
+q -t * -s 13 -d 12 -a 0.5
+q -t * -s 13 -d 14 -a 0.5
+q -t * -s 27 -d 10 -a 0.5
+q -t * -s 9 -d 10 -a 0.5
+q -t * -s 10 -d 27 -a 0.5
+q -t * -s 6 -d 5 -a 0.5
+q -t * -s 18 -d 19 -a 0.5
+q -t * -s 24 -d 25 -a 0.5
+q -t * -s 6 -d 7 -a 0.5
+q -t * -s 16 -d 10 -a 0.5
+q -t * -s 3 -d 2 -a 0.5
+q -t * -s 11 -d 12 -a 0.5
+q -t * -s 16 -d 15 -a 0.5
+q -t * -s 22 -d 21 -a 0.5
+q -t * -s 3 -d 4 -a 0.5
+q -t * -s 27 -d 26 -a 0.5
+q -t * -s 22 -d 23 -a 0.5
+q -t * -s 7 -d 6 -a 0.5
+q -t * -s 7 -d 8 -a 0.5
+q -t * -s 7 -d 9 -a 0.5
+q -t * -s 0 -d 1 -a 0.5
+q -t * -s 14 -d 13 -a 0.5
+q -t * -s 14 -d 15 -a 0.5
+q -t * -s 19 -d 18 -a 0.5
+q -t * -s 19 -d 20 -a 0.5
+q -t * -s 20 -d 19 -a 0.5
+q -t * -s 25 -d 24 -a 0.5
+q -t * -s 20 -d 21 -a 0.5
+q -t * -s 23 -d 10 -a 0.5
+q -t * -s 25 -d 26 -a 0.5
+q -t * -s 4 -d 3 -a 0.5
+q -t * -s 4 -d 5 -a 0.5
+q -t * -s 17 -d 10 -a 0.5
+q -t * -s 12 -d 11 -a 0.5
+q -t * -s 17 -d 15 -a 0.5
+q -t * -s 8 -d 7 -a 0.5
+q -t * -s 12 -d 13 -a 0.5
+q -t * -s 23 -d 22 -a 0.5
+q -t * -s 1 -d 0 -a 0.5
+q -t * -s 8 -d 10 -a 0.5
+q -t * -s 10 -d 8 -a 0.5
+q -t * -s 10 -d 9 -a 0.5
+q -t * -s 1 -d 2 -a 0.5
+n -t 0 -s 0 -S DLABEL -l "Banglalink" -L ""
